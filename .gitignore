@@ -1,0 +1,4 @@
+.direnv/
+logs/
+dataset/LJSpeech-1.1/wavs/
+

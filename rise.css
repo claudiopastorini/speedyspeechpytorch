@@ -1,0 +1,37 @@
+div.myheader {
+    background: #822433;
+    padding-top: 0.5em;
+    padding-bottom: 0.3em;
+    padding-left: 0.5em;
+    font-size: medium;
+    font-weight: 500;
+    width: 100%;
+}
+
+h2.white-text {
+    color: white;
+}
+
+div.myfooter  {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-left: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.rise-enabled .reveal .slides {
+    font-family: "Palatino", serif;
+}
+
+.rise-enabled .reveal a {
+    color: #822433;
+}
+
+.chalkboard-button i {
+    color: #822433;
+}
+
+.reveal .controls {
+    color: #822433;
+}

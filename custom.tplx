@@ -1,0 +1,8 @@
+((*- extends 'hidecode.tplx' -*))
+
+% Set the author
+((* block author *))
+    ((* if 'authors' in nb.metadata *))
+        \author{Claudio Pastorini \\ University of Rome La Sapienza \\ \href{mailto:pastorini.1792086@studenti.uniroma1.it}{pastorini.1792086@studenti.uniroma1.it}}
+    ((* endif *))
+((* endblock author *))
