@@ -70,3 +70,4 @@ librosa
 tensorboard
 fastdtw
 tabulate
+hide_code
